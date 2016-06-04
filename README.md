@@ -10,6 +10,8 @@ Using [typings](https://github.com/typings/typings):
 typings install github:nozzlegear/node-crypto.d.ts --save
 ```
 
+### Usage
+
 ```js
 import * as crypto from "crypto";
 ```
